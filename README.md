@@ -2,6 +2,8 @@
 
 ![logo](https://repository-images.githubusercontent.com/257075150/ef90f980-827d-11ea-97bc-50246ce5a028)
 
+Based on [Anjolaoluwa Adebayo-Oyetoro's medium article](https://medium.com/backticks-tildes/how-to-configure-your-vue-js-app-to-use-tailwind-css-a6f95d06e1c7) - thank you very much.
+
 - Vue-CLI 3
 - Tailwindcss
 - Vuex
