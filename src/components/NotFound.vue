@@ -5,10 +5,6 @@
 
 <script>
 export default {
-  name: 'NotFound',
-}
+  name: "NotFound"
+};
 </script>
-
-<style lang="scss">
-#NotFound {}
-</style>
