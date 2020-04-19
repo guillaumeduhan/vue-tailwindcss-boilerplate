@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Guillaume Duhan",
   "main": "server.js",
-  "description": "Vue-Cli-3, Vuex, Vue-Router, Bootstrap 4, Babel, ESLint, Axios, SCSS and Pug/HTML boilerplate.",
+  "description": "Vue-Cli-3, Vuex, Vue-Router, Tailwindcss and Pug/HTML boilerplate.",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -15,9 +15,7 @@
     "@vue/eslint-config-airbnb": "^4.0.1",
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
-    "bootstrap-vue": "^2.0.4",
     "core-js": "^3.1.2",
-    "node-sass": "^4.13.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.6",
     "vuex": "^3.0.1"
