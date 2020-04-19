@@ -5,14 +5,6 @@
 
 <script>
 export default {
-  name: 'Home'
-}
+  name: "Home"
+};
 </script>
-
-<style lang="scss">
-#Home {
-  img {
-    max-width: 400px;
-  }
-}
-</style>
