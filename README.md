@@ -1,6 +1,6 @@
 # Vue Tailwindcss Boilerplate
 
-![logo](https://repository-images.githubusercontent.com/217154004/312a6600-802c-11ea-9de1-d539825cc1f1)
+![logo](https://repository-images.githubusercontent.com/257075150/ef90f980-827d-11ea-97bc-50246ce5a028)
 
 - Vue-CLI 3
 - Tailwindcss
