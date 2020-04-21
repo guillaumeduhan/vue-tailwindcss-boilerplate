@@ -1,6 +1,7 @@
-<template lang="pug">
-  #NotFound
-    h1 Error 404 - not found.
+<template lang="html">
+<div id="NotFound">
+    <h1>Error 404 - not found.</h1>
+</div>
 </template>
 
 <script>
